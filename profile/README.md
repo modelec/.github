@@ -1,12 +1,19 @@
-## Hi there 👋
+# 🚀 Bienvenue sur le Github de Modelec
 
-<!--
+## Qui sommes nous ?
 
-**Here are some ideas to get you started:**
+Modelec c'est le club de 
+- 🤖 Robotique
+- 🪛 Electronique
+- 🛩️ Modélisme
+- 🕹️ Pilotage
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+de l'ISEN, école d'ingénieurs à Nantes.
+
+## Comment nous rejoindre ?
+Sur notre [Discord](https://discord.gg/Nz7VEpgTKs)
+
+## Nos projets
+En 2024 nous participons à la Coupe de France de Robotique.
+
+Pour plus d'infos sur nos robot : [Toute la documentation ici](https://modelec.github.io/Documentations/pr%C3%A9sentation.html)
