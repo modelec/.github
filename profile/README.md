@@ -1,4 +1,4 @@
-<img src="logo complet long.png" alt="Logo Modelec" title="Logo Modelec">
+<img src="/profile/logo complet long.png" alt="Logo Modelec" title="Logo Modelec">
 
 # 🚀 Bienvenue sur le Github de Modelec
 
