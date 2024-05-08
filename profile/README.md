@@ -1,4 +1,5 @@
 <img src="/profile/logo complet long.png" alt="Logo Modelec" title="Logo Modelec">
+<img src="/profile/ISEN-Nantes.png" alt="Logo ISEN Nantes" title="Logo ISEN Nantes">
 
 # 🚀 Bienvenue sur le Github de Modelec
 
