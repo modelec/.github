@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
     <img src="/profile/logo_long_dark_sans_background.png" alt="Logo Modelec" title="Logo Modelec" style="width: auto; height: 32%">
-    <img src="/profile/ISEN-Nantes.png" alt="Logo ISEN Nantes" title="Logo ISEN Nantes" style="width: 60%; height: 50%">
+    <img src="/profile/ISEN-Nantes.png" alt="Logo ISEN Nantes" title="Logo ISEN Nantes" style="width: 20%;">
 </div>
 
 # 🚀 Bienvenue sur le Github de Modelec
