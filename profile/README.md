@@ -22,3 +22,5 @@ Sur notre [Discord](https://discord.gg/Nz7VEpgTKs)
 En 2024 nous participons à la Coupe de France de Robotique.
 
 Pour plus d'infos sur nos robot : [Toute la documentation ici](https://modelec.github.io/Documentations/pr%C3%A9sentation.html)
+
+Notre site web est disponible [ici](https://modelec.club?ref=github)
